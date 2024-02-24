@@ -26,10 +26,6 @@ This application, written in Python using the tkinter library, allows users to e
 - urllib3 library
 - requests library
 
-## License
-
-- GSE License
-
 ## JSON File Links
 
 - (https://raw.githubusercontent.com/risan/quran-json/main/data/quran.json)
