@@ -19,7 +19,7 @@ This application, written in Python using the tkinter library, allows users to e
 
 1. Double-click the `quran_reader.py` file or run `python quran_reader.py` in your terminal.
 
-## Dependencies
+## Objects used in this application
 
 - Python 3.x
 - tkinter library
@@ -28,15 +28,10 @@ This application, written in Python using the tkinter library, allows users to e
 
 ## License
 
-- MIT License (or specify your preferred license)
+- GSE License
 
-## Contribution Guidelines
+## JSON File Links
 
-- We welcome contributions! Please read the CONTRIBUTING.md file for guidelines.
+- (https://raw.githubusercontent.com/risan/quran-json/main/data/quran.json)
+- (https://raw.githubusercontent.com/risan/quran-json/main/data/chapters/en.json)
 
-## Additional Notes
-
-- Consider adding error handling for data unavailability or malformation.
-- Explore user experience enhancements like search functionality or bookmarking.
-
-We hope this README file provides a clear and informative description of your application!
